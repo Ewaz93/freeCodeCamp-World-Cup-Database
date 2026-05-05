@@ -1,4 +1,5 @@
 #! /bin/bash
+
 # This script was written by me Ewaz93 with debugging assistance from AI, I did my best possible.
 
 PSQL="psql --username=freecodecamp --dbname=worldcup --no-align --tuples-only -c"
